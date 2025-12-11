@@ -1,0 +1,1 @@
+export const formatScore = (n: number) => String(n)
