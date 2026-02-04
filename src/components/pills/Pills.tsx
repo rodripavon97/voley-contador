@@ -1,4 +1,5 @@
-import type { SetScore } from "../../hooks/useMatchState";
+import type { SetScore } from "../../domain/match";
+
 
 interface PillsProps {
     currentSet: number;
